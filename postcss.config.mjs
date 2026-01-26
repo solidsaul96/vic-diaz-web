@@ -1,6 +1,8 @@
+/** @type {import('postcss-load-config').Config} */
 const config = {
   plugins: {
-    "@tailwindcss/postcss": {},
+    tailwindcss: {}, // <--- ESTA es la versión correcta (v3)
+    autoprefixer: {},
   },
 };
 
