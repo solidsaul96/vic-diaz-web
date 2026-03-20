@@ -57,6 +57,10 @@ export default function RootLayout({
           </main>
           <Footer />
         </LanguageProvider>
+
+        {/*  AQUÍ ESTÁ LA MAGIA DE GOOGLE ANALYTICS  */}
+        <GoogleAnalytics gaId="G-2Q7KC2EYDD" />
+        
       </body>
     </html>
   );
