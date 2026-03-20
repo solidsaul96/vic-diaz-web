@@ -22,7 +22,7 @@ const lato = Lato({
 // CONFIGURACIÓN SEO (Lo que lee Google y WhatsApp/Facebook)
 export const metadata: Metadata = {
   // IMPORTANTE: Cambia esta URL por el dominio .com cuando lo compren
-  metadataBase: new URL('https://vic-diaz-web.vercel.app'), 
+  metadataBase: new URL('https://vicdiazphoto.com/'), 
   title: "Vic Díaz | Flying Dress Cancún & Fotografía Aérea",
   description: "Reserva tu sesión de fotos Flying Dress en Cancún. Especialistas en fotografía con drone, maternidad, bodas y sesiones de cumpleaños en la playa.",
   keywords: ["Flying Dress Cancun", "Fotografo Cancun", "Sesion de fotos playa", "Drone Cancun", "Vic Diaz Photography"],
