@@ -48,7 +48,7 @@ export default function Hero() {
           className="flex flex-col sm:flex-row gap-4 justify-center items-center"
         >
           <a 
-            href="https://wa.me/5219981234567" // Recuerda cambiar esto por el número real de Vic
+            href="https://wa.me/529981371002" // Recuerda cambiar esto por el número real de Vic
             target="_blank"
             className="bg-brand-gold text-white font-semibold py-3 px-8 rounded-full hover:bg-white hover:text-brand-dark transition-all duration-300 shadow-lg transform hover:-translate-y-1"
           >
