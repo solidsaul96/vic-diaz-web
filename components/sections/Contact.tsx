@@ -39,7 +39,7 @@ export default function Contact() {
             <div className="flex flex-col gap-4">
                {/* Botón WhatsApp Principal */}
                <a 
-                 href={generateWhatsAppLink("Hola Vic, me gustaría cotizar una sesión de fotos 📸")}
+                 href={generateWhatsAppLink("Hola Vic, me gustaría cotizar una sesión de fotos.")}
                  target="_blank"
                  className="inline-flex items-center gap-3 bg-brand-gold text-brand-dark px-8 py-4 rounded-full font-bold text-lg hover:bg-white transition-all w-fit shadow-lg hover:shadow-brand-gold/20"
                >
